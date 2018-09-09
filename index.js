@@ -16,4 +16,4 @@ let randomNumber = Math.random()*21;
 
 let randomInteger = Math.floor(randomNumber)
 
-let randomUserID = '100000000' + randomInteger;
+let randomUserID = 100000000 + randomInteger;
